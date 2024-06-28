@@ -1,7 +1,8 @@
 # tinymce-tooltip
 Make a Tooltip Plugin in your content TinyMCE !
 
-![Alt text]([image link](https://imgur.com/tshHQ75))
+![alt text](http://url/to/img.png](https://i.imgur.com/tshHQ75.png)
+
 
 Official Website: https://www.tiny.cloud/tinymce/
 Contributor: https://altitude-dev.com/ for https://andromede-cms.com
