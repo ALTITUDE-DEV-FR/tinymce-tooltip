@@ -1,6 +1,9 @@
 # tinymce-tooltip
 Make a Tooltip Plugin in your content TinyMCE !
 
+Official Website: https://www.tiny.cloud/tinymce/
+Contributor: https://altitude-dev.com/ for https://andromede-cms.com
+
 # How to set the plugin in TinyMCE ?
 
 1.Add a tooltip to plugins list.
