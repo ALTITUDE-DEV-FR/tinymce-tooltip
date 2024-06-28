@@ -1,7 +1,9 @@
 # tinymce-tooltip
 Make a Tooltip Plugin in your content TinyMCE !
 
+![alt text](https://i.imgur.com/n3FY1O9.png)
 ![alt text](https://i.imgur.com/tshHQ75.png)
+![alt text](https://i.imgur.com/56haHU1.png)
 
 # Official Website
 Official Website: https://www.tiny.cloud/tinymce/
