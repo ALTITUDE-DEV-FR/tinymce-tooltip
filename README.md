@@ -1,4 +1,4 @@
-# tinymce-tooltip
+# TinyMCE Tooltip
 Make a Tooltip Plugin in your content TinyMCE !
 
 ![alt text](https://i.imgur.com/n3FY1O9.png)
