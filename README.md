@@ -16,8 +16,7 @@ tinymce.init({
 ```
 
 2. load the file.js before tinyMCE init
-
-   example:
+3. 
    <script src="/js/plugins/tooltip.js"></script>
    <script>
     	tinymce.init({
