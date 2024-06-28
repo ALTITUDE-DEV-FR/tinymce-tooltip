@@ -1,5 +1,5 @@
 # TinyMCE Tooltip
-Make a Tooltip Plugin in your content TinyMCE !
+Make a Tooltip Plugin in your content TinyMCE ! (no js required in front-end)
 
 ![alt text](https://i.imgur.com/n3FY1O9.png)
 ![alt text](https://i.imgur.com/tshHQ75.png)
