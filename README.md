@@ -3,9 +3,14 @@ Make a Tooltip Plugin in your content TinyMCE !
 
 ![alt text](https://i.imgur.com/tshHQ75.png)
 
-
+# Official Website
 Official Website: https://www.tiny.cloud/tinymce/
+
+# Contributors
 Contributor: https://altitude-dev.com/ for https://andromede-cms.com
+
+# Thanks to
+Special thanks for https://paf-pasteque.com/ for the idea
 
 # How to set the plugin in TinyMCE ?
 
