@@ -6,10 +6,10 @@ Make a Tooltip Plugin in your content TinyMCE !
 1.Add a tooltip to plugins list.
 
 ```js
-		tinymce.init({
-			selector: '.editorTiny',
-			plugins: 'tooltip'
-		});
+tinymce.init({
+	selector: '.editorTiny',
+	plugins: 'tooltip'
+});
 ```
 
 2. load the file.js before tinyMCE init
@@ -17,10 +17,10 @@ Make a Tooltip Plugin in your content TinyMCE !
    example:
    <script src="/js/plugins/tooltip.js"></script>
    <script>
-    tinymce.init({
-			selector: '.editorTiny',
-			plugins: 'tooltip'
-		});
+    	tinymce.init({
+		selector: '.editorTiny',
+		plugins: 'tooltip'
+	});
    </script>
 
 3.Make a small CSS in your front-end
